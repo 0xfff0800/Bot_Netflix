@@ -7,6 +7,9 @@ It is a bot to log into a shared Netflix account with your friends and family fo
 <p align="center">
     <img src="assets/screenshot-1.jpg" width="360" height="720">
     <img src="assets/screenshot-2.jpg" width="360" height="720">
+    <img src="assets/screenshot-3.jpg" width="360" height="720">
+    <img src="assets/screenshot-4.jpg" width="360" height="720">
+    <img src="assets/screenshot-5.jpg" width="360" height="720">
 </p>
 
 ## [Installation:](sssss)
