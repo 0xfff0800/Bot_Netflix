@@ -5,14 +5,10 @@ It is a bot to log into a shared Netflix account with your friends and family fo
 + **Support the project:** Your support allows us to continue the free broadcasting accounts for everyone
 
 <p align="center">
-    <img src="assets/screenshot-1.jpg" width="360" height="720">
-    <img src="assets/screenshot-2.jpg" width="360" height="720">
-    <img src="assets/screenshot-3.jpg" width="360" height="720">
-    <img src="assets/screenshot-4.jpg" width="360" height="720">
-    <img src="assets/screenshot-5.jpg" width="360" height="720">
+    <img src="assets/screenshot-3.png" width="4000" height="500">
 </p>
 
-## [Installation:](sssss)
+## [Installation:](assets/screenshot-5.mp4)
 ```bash
     $ git clone https://github.com/0xfff0800/Bot-Netflix.git
     $ cd Bot-Netflix
