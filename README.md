@@ -9,7 +9,7 @@ It is a bot to log into a shared Netflix account with your friends and family fo
     <img src="assets/screenshot-3.png" width="4000" height="500">
 </p>
 
-## [Installation:](assets/screenshot-5.mp4)
+## [Installation:](https://falah.s3.us-west-2.amazonaws.com/Bot_Netflix.MOV)
 
 Download file [Press here](https://github.com/0xfff0800/Bot-Netflix/releases) 
 
