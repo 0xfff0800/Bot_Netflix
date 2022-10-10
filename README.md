@@ -15,7 +15,7 @@ Download file [Press here](https://github.com/0xfff0800/Bot-Netflix/releases)
 
 
 ```bash
-    $ cd BOT-Netflix
+    $ cd Bot_Netflix
     $ pip3 install -r requirements.txt
     $ python3 main.py
 ```
