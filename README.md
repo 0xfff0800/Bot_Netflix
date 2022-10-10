@@ -9,8 +9,11 @@ It is a bot to log into a shared Netflix account with your friends and family fo
 </p>
 
 ## [Installation:](assets/screenshot-5.mp4)
+
+Download file [Press here](https://github.com/0xfff0800/Bot-Netflix/releases) 
+
+
 ```bash
-    $ Download file : https://mega.nz/file/3fRUjDqK#TOvXe-qUYjP4qRRbctdPtDCUpwsCJY_qhLRQ4iTc72Q
     $ cd Bot-Netflix
     $ pip3 install -r requirements.txt
     $ python3 main.py
