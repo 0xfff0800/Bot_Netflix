@@ -6,7 +6,7 @@ It is a bot to log into a shared Netflix account with your friends and family fo
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Watch+Free+Netflix!;Please+put+a+star+for+us )
 </p>
 <p align="center">
-    <img src="assets/screenshot-3.png" width="4000" height="500">
+    <img src="netflix.png" width="4000" height="500">
 </p>
 
 ## [Installation:](https://falah.s3.us-west-2.amazonaws.com/Bot_Netflix.MOV)
