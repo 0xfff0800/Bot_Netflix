@@ -3,7 +3,7 @@ It is a bot to log into a shared Netflix account with your friends and family fo
 + **support:** Add the file to your computer, make sure Python3 is installed
 + **install libraries:** pip3 install -r requirements.txt
 + **Support the project:** Your support allows us to continue the free broadcasting accounts for everyone
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Watch+Free+Netflix!;Please+put+a+star+for+us )
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Watch+Free+Netflix!;Please+put+a+star+for+us )
 </p>
 <p align="center">
     <img src="netflix.png" width="4000" height="500">
