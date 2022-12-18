@@ -16,15 +16,17 @@ Download file [Press here](https://github.com/0xfff0800/Bot-Netflix/releases)
 
 ```bash
     $ cd Bot_Netflix
+    $ pip3 install selenium==2.53.6
     $ pip3 install -r requirements.txt
-    $ python3 main.py
+    $ Click on the program ( Netflix.exe )
 ```
 
 ## Todo
 - [x] View from any file
 - [x] Login without sharing a password and email
 - [ ] share passwords
-- [ ] private subscription
+- [x] Graphical interface
+- [x] private subscription
 - [ ] Mobile device support
 
 
